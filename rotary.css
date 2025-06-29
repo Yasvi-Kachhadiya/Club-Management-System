@@ -1,0 +1,65 @@
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(rotary.jpg);
+    background-position:center;
+    background-size:cover;
+    background-repeat:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),no-repeat;
+    margin:0px;
+    }
+    .heading{
+        text-align:center;
+        color:white;
+        font-family: 'Anybody', cursive;
+    }
+    .h1{
+        font-family: 'Anybody', cursive; 
+    }
+    .h3{
+        font-family: 'Anybody', cursive;
+    }
+    .coordinator{
+        text-align:center;
+        color:white;
+        font-family: 'Anybody', cursive;
+    }
+    ul{
+        list-style-type:none;
+    }
+    #hidden{
+        display:none;
+    }
+    #aims:hover{
+        cursor:pointer;
+    }
+    #angle-down:hover{
+        cursor:pointer;
+    }
+    #angle-up{
+        display:block;
+    }
+    .img{
+        border-radius:50%;
+        width:200px;
+        height:200px;
+        opacity:0.8;
+    }
+    .img:hover{
+        opacity:1;
+        width:220px;
+        height:220px;
+        transition:0.5s;
+    }
+    button{
+        text-align:center;
+        padding:10px 15px;
+          border-radius:25px;
+          background:transparent;
+          color:white;
+          font-weight:bold;
+          border:none;
+    }
+    button:hover{
+        background-color:#ccc;
+        transition:0.5s;
+        cursor:pointer;
+        color:black;
+      }
