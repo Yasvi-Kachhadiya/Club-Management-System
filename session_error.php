@@ -2,7 +2,7 @@
 
 if(isset($_SESSION['msg'])) {
     $msg = $_SESSION['msg'];
-    session_unset($_SESSION['msg']);
+    unset($_SESSION['msg']);
 
     echo "<div style=
 
