@@ -1,0 +1,7 @@
+1) Open the XAMPP control panel
+2) Start Apache and MySQL
+3) Start the admin of MySQL or(http://localhost/phpMyAdmin)
+4) Go to the browser and run(localhost/name of folder of website): localhost/ClubManagementWebsite
+5) Select foldername 
+
+then u can see the website, then u can log in as admin/moderator/student.
