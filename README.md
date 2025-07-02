@@ -1,4 +1,4 @@
-# Club Management System
+# ClubCare
 
 ## Project Overview
 The **Club Management System** is a web-based application developed to efficiently manage clubs, events, and memberships within an institution. This system streamlines administrative tasks, improves communication between club administrators and members, and offers a centralized platform for handling club-related activities.
